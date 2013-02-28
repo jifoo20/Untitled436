@@ -1,4 +1,4 @@
-﻿
-var x=10;
-x++;
-x;
+//AHmed JAAFRI﻿
+var y=10;
+y++;
+y;
