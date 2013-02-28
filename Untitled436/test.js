@@ -1,4 +1,3 @@
-//AHmed JAAFRI﻿
-var y=10;
-y++;
-y;
+var g=10;
+g++;
+g;
